@@ -1,18 +1,55 @@
-# Shopping Website (HTML, CSS, JavaScript)
+# 🌟 Shopping Website
 
-This project is a simple and responsive **Shopping Website UI** created using HTML, CSS, and JavaScript. It focuses on product display, layout design, and basic interactivity without complex backend or cart functionality.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## Features
+**Shopping Website** is a modern web interface built using **HTML, CSS, and JavaScript**, designed to showcase an **e-commerce style layout** with a clean and user-friendly experience.
 
-- Clean and modern shopping website UI  
-- Product listing with images, names, and prices  
-- Responsive layout for desktop and mobile devices  
-- Hover effects and smooth transitions  
-- Basic JavaScript interactions  
-- Beginner-friendly frontend project  
+💡 This project focuses on **product display, layout structuring, and interactive UI**, inspired by real-world shopping platforms.
 
-## Technologies Used
+---
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)
+## 🌐 Live Demo
+
+[🛍️ View Shopping Website Live](https://shoppingwebsite-jet.vercel.app/)
+
+---
+
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
+
+---
+
+## 💻 About Shopping Website
+
+- Designed as an **e-commerce website interface**  
+- Displays products in a **structured and visually appealing layout**  
+- Focused on **clean UI and user-friendly navigation**  
+- Built with **responsive design principles**  
+- Highlights **real-world website structure and UI patterns**  
+
+---
+
+## 🌱 Learning & Growth
+
+- 🛍️ Understanding **e-commerce UI design patterns**  
+- 🎨 Improving **layout structuring and styling skills**  
+- 🌐 Strengthening **responsive design techniques**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
